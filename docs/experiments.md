@@ -1,5 +1,5 @@
 ---
 layout: page
 title: ".experiments"
-permalink: /thoughts
+permalink: /experiments
 ---
